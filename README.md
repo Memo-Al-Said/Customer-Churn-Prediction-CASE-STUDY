@@ -1,6 +1,11 @@
 # Customer Churn Prediction CASE STUDY 1 
-NOTE: Incase the jupyter notebook (Customer Churn Prediction Model ML.ipynb) does not function due to file path (churn.csv) not working. A work around to run the notebook is to download the notebook and churn.csv externally, and change the churn.csv file path shown in the beginning of the notebook to where the churn.csv file is found on your computer (Example: E:\Coding\Python\Machine Learning\Customer Churning ML/churn.csv). It is also recommended you have jupyter notebook installed on your computer to view the notebook!
+NOTE: 
+Incase the jupyter notebook (Customer Churn Prediction Model ML.ipynb) does not function due to file path (churn.csv) not working. A work around to run the notebook is to download the notebook and churn.csv externally, and change the churn.csv file path shown in the beginning of the notebook to where the churn.csv file is found on your computer (Example: E:\Coding\Python\Machine Learning\Customer Churning ML/churn.csv). It is also recommended you have jupyter notebook installed on your computer to view the notebook!
 
+About the dataset:
+The sample dataset used is from a fictional telecommunications company, Telco. It’s customer churn data is sourced by the IBM Developer Platform, and it’s available here (https://raw.githubusercontent.com/carlosfab/dsnp2/master/datasets/WA_Fn-UseC_-Telco-Customer-Churn.csv).
+
+Introduction:
 This is a solution to a case study related to data science. The case study involves developing a customer churn prediction model using a machine learning algorithm and data science principles.
 
 Churn rate is an important indicator for subscription-based companies, granting the ability to detect customers who aren't satisfied with the provided services. This allows businesses to learn more about product or pricing weak points, operation issues, and customer preferences and expectations, while also helping to reduce reasons for churning proactively.

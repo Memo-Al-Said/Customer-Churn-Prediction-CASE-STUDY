@@ -1,4 +1,6 @@
 # Customer Churn Prediction CASE STUDY 1 
+NOTE: Incase the jupyter notebook given does not function due to file path (churn.csv) not working
+
 This is a solution to a case study related to data science. The case study involves developing a customer churn prediction model using a machine learning algorithm and data science principles.
 
 Churn rate is an important indicator for subscription-based companies, granting the ability to detect customers who aren't satisfied with the provided services. This allows businesses to learn more about product or pricing weak points, operation issues, and customer preferences and expectations, while also helping to reduce reasons for churning proactively.

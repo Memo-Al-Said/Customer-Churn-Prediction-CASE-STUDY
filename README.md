@@ -1,5 +1,5 @@
 # Customer Churn Prediction CASE STUDY 1 
-NOTE: Incase the jupyter notebook given does not function due to file path (churn.csv) not working
+NOTE: Incase the jupyter notebook (Customer Churn Prediction Model ML.ipynb) does not function due to file path (churn.csv) not working. A work around to run the notebook is to download the notebook and churn.csv externally, and change the churn.csv file path shown in the beginning of the notebook to where the churn.csv file is found on your computer (Example: E:\Coding\Python\Machine Learning\Customer Churning ML/churn.csv). It is also recommended you have jupyter notebook installed on your computer to view the notebook!
 
 This is a solution to a case study related to data science. The case study involves developing a customer churn prediction model using a machine learning algorithm and data science principles.
 
